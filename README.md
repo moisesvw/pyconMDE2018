@@ -10,10 +10,9 @@ Then run this command `pip install -r requirements.txt` to install dependencies
 Uncompress the file data.zip
 Finally run `jupyter notebook`
 
-    - Spanish Version
-        * [intro](intro-nets-es.ipynb)
-        * [ConvNets](intro-convnet-es.ipynb)
-    - English Version
-        * [intro](intro-nets-en.ipynb)
-        * [ConvNets](intro-convnet-en.ipynb)
-        
+- Spanish Version
+    * [intro](intro-nets-es.ipynb)
+    * [ConvNets](intro-convnet-es.ipynb)
+- English Version
+    * [intro](intro-nets-en.ipynb)
+    * [ConvNets](intro-convnet-en.ipynb)
