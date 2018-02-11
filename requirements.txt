@@ -1,0 +1,9 @@
+jupyter
+pandas==0.22.0
+opencv-python
+numpy==1.14
+matplotlib
+tensorflow
+scikit-learn==0.19.1
+scipy==1.0.0
+
