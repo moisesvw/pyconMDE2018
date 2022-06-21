@@ -1,7 +1,7 @@
 jupyter
 pandas==0.22.0
 opencv-python
-numpy==1.14
+numpy==1.22.0
 matplotlib
 tensorflow
 scikit-learn==0.19.1
